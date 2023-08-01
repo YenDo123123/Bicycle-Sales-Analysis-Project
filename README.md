@@ -88,7 +88,6 @@ The finished sales management dashboard with one page as a dashboard overview an
 
 
 ![Image](https://user-images.githubusercontent.com/140786495/257035144-ca41ffc4-2fec-407f-8ba7-760b846ee39e.png)
-You can interact with the report: 
 
 
 
