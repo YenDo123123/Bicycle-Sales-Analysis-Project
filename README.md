@@ -44,28 +44,19 @@ One data source (sales budgets) were provided in Excel format and were connected
 Below are the SQL statements for cleansing and transforming necessary data.
 ### **Dim_Customer Table**
 
-
-<img width="552" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/0bd1a566-c6d5-4d99-8262-8bbc6dceb864">
-
-
+<img width="621" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/7f8d78cb-fb80-49bf-81a4-e55fc8015464">
 
 ### **Dim_Date Table**
 
-
-<img width="535" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/b00a2d37-2bff-4f1e-ac5c-e2c68330b4b8">
-
-
+<img width="620" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/47f43ef0-241a-4c1c-a9dd-a93da422347d">
 
 ### **Dim_Product Table**
 
-<img width="611" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/0ce440da-d4a5-42a6-9054-a1196afe3d3d">
-
+<img width="620" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/589eeb05-d44f-4db6-af2d-b4e511f15ae1">
 
 ### **Fact_InternetSales Table**
 
-
-<img width="534" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/124b74a2-234b-432b-8f50-20cc649fe0fd">
-
+<img width="619" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/8fa85a18-93b9-4726-bc29-45ac8948f529">
 
 Note: I found a script that updated the dates. Part of it is shown here:
 
@@ -77,7 +68,9 @@ Below is a screenshot of the data model after being sharped and transformed by P
 
 This data model also shows how Fact_SalesBudget has been connected to Fact_InternetSales and other necessary Dim tables.
 
-<img width="512" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/283470ed-4fd9-4032-bc31-c98e380e62a4">
+<img width="570" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/c84d8198-4393-4785-ba38-2fb125313a2b">
+
+
 
 The finished sales management dashboard with one page as a dashboard overview and two other pages focused on necessary details and visualizations to show sales over time, per customer and per product.
 
