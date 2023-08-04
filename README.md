@@ -7,11 +7,10 @@ This is a project that shows my ability to:
 - ﻿﻿﻿Use Power BI to import, analyze and visualize sales overview, customer and product details.
 
 Note: AdventureWorks DW is not a real company. Its database is compiled by Microsoft for learning purposes.
-## **Problem Statement**
-The goal of this analysis is to: 
-- Know the current sales performance and determine how it compares to past performance and company sales' growth rate. 
-- Discover target markets, categories, products, and customers that have a large impact on sales success.
-- Identify areas that can help to improve sale performance.
+## **Business Request & User Stories**
+The business request for this data analyst project was an executive sales report for sales managers. Based on the request from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
+
+<img width="915" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/7600cfa9-4176-44d3-8728-651a32600608">
 ## **Skills and Concepts demonstrated**
 - SQL
   - CASE Expression
@@ -27,10 +26,6 @@ The goal of this analysis is to:
   - Performing DAX's date and time intelligence functions and quick measures to create complex DAX code. 
   - Showing the information in the dashboard selectively with a Filter pane, Drill Down Hierarchies.
   - Data Visualization with proper charts.
-## **Business Request & User Stories**
-The business request for this data analyst project was an executive sales report for sales managers. Based on the request from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
-
-<img width="915" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/7600cfa9-4176-44d3-8728-651a32600608">
 
 ##  **Data Cleansing & Transformation (SQL)**
 To create the necessary data model for doing analysis, the following tables were extracted using SQL.
