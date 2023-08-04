@@ -11,6 +11,7 @@ Note: AdventureWorks DW is not a real company. Its database is compiled by Micro
 The business request for this data analyst project was an executive sales report for sales managers. Based on the request from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
 
 <img width="915" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/7600cfa9-4176-44d3-8728-651a32600608">
+
 ## **Skills and Concepts demonstrated**
 - SQL
   - CASE Expression
