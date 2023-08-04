@@ -1,8 +1,4 @@
 # **[Sales-Performance-Analysis](url)**
-This is a project that shows my ability to: 
-- Query data from the database about sales of a fictitious bicycle manufacturer called Adventure Works DW from Jan 1st, 2021 to Jan 31st, 2023 on Microsoft SQL Server.
-- ﻿﻿﻿Use Power BI to import, analyze and visualize sales overview, customer and product details.
-
 ## **Introduction**
 This is an analysis of the Sales performance of AdventureWorksDW. It is done by analyzing data from different aspects of AdventureWorks DW's database. I analyzed data from dim_customers table, dim_date table, dim_product table, fact_InternetSales table, and Fact_SalesBudget table. 
 
