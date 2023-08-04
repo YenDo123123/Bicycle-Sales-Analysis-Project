@@ -62,7 +62,7 @@ This data model also shows how Fact_SalesBudget has been connected to Fact_Inter
 
 <img width="570" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/c84d8198-4393-4785-ba38-2fb125313a2b">
 
-
+## **The Sales Power BI Dashboard**
 
 The finished sales management dashboard with one page as a dashboard overview and two other pages focused on necessary details and visualizations to show sales over time, per customer and per product.
 
