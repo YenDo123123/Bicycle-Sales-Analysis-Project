@@ -78,7 +78,7 @@ The finished sales management dashboard with one page as a dashboard overview an
 
 <img width="576" alt="image" src="https://github.com/YenDo123123/Sales-Analysis-Project/assets/140786495/d7d13d39-4c06-4c9b-9a1b-b5c272174ee4">
 
-# **Analysis**
+## **Analysis**
 - There was a rise in sales in 2021 and 2022 and it increased significantly in 2022.
 - The company didn’t achieve its goals in these two years, but the gap was bridged in 2022, compared to 2021 sales performance. The result was impacted significantly by the Bike category because it accounted for the majority of the sales in 2021 and 2022, with respective figures being 100% and 94.02%, and the diversity of their product portfolio.
 - "Bikes" account for the majority of the total sales (95.32%) in 2021 and 2022, at $11.5 Million. Accessories is the category ranking first in terms of total orders, but ranking second (3.15%) in terms of revenue; this might be due to the price gap among categories and the fact that several accessories can be used to fix a damaged bike.
