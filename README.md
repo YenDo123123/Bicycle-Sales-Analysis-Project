@@ -1,4 +1,4 @@
-# **[Sales-Performance-Analysis](url)**
+# **[Bicycle-Sales-Analysis-Project](url)**
 ## **Introduction**
 This is an analysis of the Sales performance of AdventureWorksDW. It is done by analyzing data from different aspects of AdventureWorks DW's database. I analyzed data from dim_customers table, dim_date table, dim_product table, fact_InternetSales table, and Fact_SalesBudget table. 
 
